@@ -15,20 +15,6 @@ C_Template_Match::C_Template_Match(IN const HANDLE& i_seg_handle)
 {
 
 
-	if (i_seg_handle == NULL)
-    {
-        cout<<"Input handle is NULL"<<endl;
-
-    }
-    else
-    {
-        seg_handle = i_seg_handle;
-    }
-
-    dsadaskldja
-
-    dppppppppppp
-
 
 
 // =========================================================================
